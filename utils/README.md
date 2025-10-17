@@ -1,0 +1,1 @@
+# fungsi untuk load model YOLO & jalankan prediksi
